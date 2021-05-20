@@ -2,6 +2,7 @@
 
 * Студент: [Евгений Б](https://up.htmlacademy.ru/htmlcss/31/user/63511).
 * Наставник: `Неизвестно`.
+* Наставник: [Максим Иванов](https://htmlacademy.ru/profile/id342945).
 
 ---
 
